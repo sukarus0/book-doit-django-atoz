@@ -130,3 +130,6 @@ dmypy.json
 
 # Python complied file
 *.pyc
+
+# Vi swap files
+*.swp
